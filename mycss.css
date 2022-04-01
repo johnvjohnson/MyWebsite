@@ -1,1 +1,21 @@
 
+h1
+{
+  text-align: center
+}
+
+p {
+  float: left;
+  width: 20%;
+  color: #FFFAF0;
+  text-align: center;
+  background-color: #696969;
+}
+.test
+{
+  float: right;
+  
+  width: 50%; 
+  color: #00CED1;
+  background-color: #9400D3
+}
